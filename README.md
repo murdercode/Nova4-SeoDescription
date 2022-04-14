@@ -1,6 +1,6 @@
 # Laravel Nova 4 SeoDescription
 
-Inspired to https://github.com/murdercode/Nova4-SeoTitle, but for TextArea field.
+Inspired to [Nova 4 SeoTitle](https://github.com/murdercode/Nova4-SeoTitle), but as TextArea field.
 
 ## Setup
 
