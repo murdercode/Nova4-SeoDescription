@@ -1,9 +1,10 @@
 {
-    "name": "codelabs/seo-description",
-    "description": "A Laravel Nova field.",
+    "name": "murdercode/nova4-seo-description",
+    "description": "A Laravel Nova SEO field for descriptions.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "seo"
     ],
     "license": "MIT",
     "require": {
@@ -11,13 +12,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Codelabs\\SeoDescription\\": "src/"
+            "Murdercode\\SeoDescription\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Codelabs\\SeoDescription\\FieldServiceProvider"
+                "Murdercode\\SeoDescription\\FieldServiceProvider"
             ]
         }
     },
